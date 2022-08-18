@@ -24,5 +24,5 @@ export function handle () {
     })
   }
   
-  window.route = () => router.route()
+
   
