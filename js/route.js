@@ -24,9 +24,5 @@ export function handle () {
     })
   }
   
-<<<<<<< HEAD
- 
-=======
 
->>>>>>> 11b87e644f14dcae0f5e2575bd101f7b3109833d
   
