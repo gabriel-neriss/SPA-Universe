@@ -1,6 +1,10 @@
-
-import {body, home, universe, exploration} from './main.js'
 import {handle} from './route.js'
+
+
+const body = document.querySelector ('body')
+const home = document.querySelector ('#home')
+const universe = document.querySelector ('#universe')
+const exploration = document.querySelector ('#exploration')
 
 
 function routePrevent (event) {
@@ -16,6 +20,7 @@ function routePrevent (event) {
 
 
 export default function initEvents () {
+
 
   home.addEventListener ('click', () => {
 
