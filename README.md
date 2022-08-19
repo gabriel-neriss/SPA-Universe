@@ -1,6 +1,6 @@
 # 🧑‍💻 Sobre o projeto !
 
-Neste desafio apliquei conceitos de Single Page Applications (SPA) que são aplicações cuja funcionalidade está concentrada em uma única página. 
+Neste desafio apliquei conceitos de Single Page Applications (SPA) que são aplicações cuja funcionalidade está concentrada em uma única página, ou seja, não precisam ser recarregadas completamente todas as vezes em que o usuário clicar em um link para ir em uma nova seção do site por exemplo, apenas o conteúdo principal é atualizado, umas das vantagem desse conceito é uma melhor experiência do usuário.
 
 ## 💻 Demonstração
 
